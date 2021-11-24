@@ -1,0 +1,1 @@
+oh-my-posh --init --shell pwsh --config C:\Users\kimic\AppData\Local\Programs\oh-my-posh\themes/theempty.omp.json | Invoke-Expression
